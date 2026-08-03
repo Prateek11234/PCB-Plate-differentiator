@@ -1,0 +1,5 @@
+pair_1: Missing component: one solder pad erased (simulates a part not placed on the board)
+pair_2: Foreign particles: two small dark spots added (simulates dust/solder splash contamination)
+pair_3: Solder bridge: a bright line drawn connecting two adjacent pads (simulates unwanted solder bridging)
+pair_4: Misaligned component: IC chip shifted ~15-20px from its correct position (simulates placement drift)
+pair_5: Discoloration: a brownish patch blended onto the board (simulates a burn/heat-damage mark)

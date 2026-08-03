@@ -1,0 +1,68 @@
+{
+  "pair_1": {
+    "ssim_score": 0.9747,
+    "num_regions_detected": 1,
+    "boxes_xywh": [
+      [
+        291,
+        197,
+        18,
+        28
+      ]
+    ]
+  },
+  "pair_2": {
+    "ssim_score": 0.9732,
+    "num_regions_detected": 2,
+    "boxes_xywh": [
+      [
+        142,
+        342,
+        17,
+        17
+      ],
+      [
+        489,
+        190,
+        23,
+        21
+      ]
+    ]
+  },
+  "pair_3": {
+    "ssim_score": 0.9727,
+    "num_regions_detected": 1,
+    "boxes_xywh": [
+      [
+        275,
+        125,
+        51,
+        51
+      ]
+    ]
+  },
+  "pair_4": {
+    "ssim_score": 0.9616,
+    "num_regions_detected": 1,
+    "boxes_xywh": [
+      [
+        372,
+        292,
+        112,
+        65
+      ]
+    ]
+  },
+  "pair_5": {
+    "ssim_score": 0.9729,
+    "num_regions_detected": 1,
+    "boxes_xywh": [
+      [
+        138,
+        390,
+        26,
+        51
+      ]
+    ]
+  }
+}
